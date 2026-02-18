@@ -1,3 +1,5 @@
 # 01 – Networking
 
-_TODO: Add notes and practice tasks for this topic._
+Commands: `ip`, `ss`, `nmcli`, `ping`, `dig`, `ethtool`, `nmap`.
+
+Goal: understand IP addresses, routes, open ports and basic network debugging.
