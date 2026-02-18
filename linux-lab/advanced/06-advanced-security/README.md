@@ -1,3 +1,5 @@
 # 06 – Advanced Security
 
-_TODO: Add notes and practice tasks for this topic._
+Topics: SELinux, AppArmor, iptables/nftables, LUKS/dm-crypt, PAM, Linux capabilities.
+
+Goal: gain a deeper understanding of how Linux enforces security at multiple layers.
