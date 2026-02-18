@@ -1,3 +1,5 @@
 # 03 – System Information
 
-_TODO: Add notes and practice tasks for this topic._
+Commands: `uname`, `hostnamectl`, `df`, `du`, `free`, `uptime`.
+
+Goal: quickly see kernel version, distro, CPU, memory, disk usage and system uptime.
