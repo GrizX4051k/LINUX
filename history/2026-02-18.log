@@ -742,3 +742,284 @@ git commit-m "updated Readme.md"
 git push
 git commit -m "updated Readme.md"
 git push
+echo $ZSH
+nano ~/.zshrc
+git
+sudo apt install -y \\
+fzf \\
+bat \\
+exa \\
+htop \\
+neofetch\
+
+nano ~/.zshrc
+source ~/.zshrc
+git
+cd
+git status
+pwd
+GIT LOG
+git
+sudo apt install -y nodejs npm
+git 
+git log
+git init
+echo "Hello Linux" > README.md
+git status
+git add .
+git commt -m "working with linux added readme"
+git push
+cd ~
+git rm --cached -r .oh-my-zsh
+echo ".oh-my-zsh" >> .gitignore
+git status
+git add .
+cd
+git commit -m "working with linux added readme"
+echo "# LINUX" >> README.md
+git init
+git add README.md
+git remote add origin https://github.com/GrizX4051k/LINUX.git
+CD
+cd
+git push -u origin main
+git commit -m "Initial linux notes"
+git push -u origin main
+cd
+git push -u origin main
+git remote set-url origin https://github.com/GrizX4051k/LINUX.git
+git remote -v
+git push -u origin main
+cd
+sudo snap install gh
+gh auth login
+snap list | grep gh
+exec zsh
+gh --version
+sudo snap remove gh
+type -p curl >/dev/null || sudo apt install curl -y
+curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | \\
+  sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg\
+
+sudo chmod go+r /usr/share/keyrings/githubcli-archive-keyring.gpg
+echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | \\
+  sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null
+cd
+sudo apt update
+sudo apt install gh -y
+gh --version
+gh auth login
+git status
+rm -rf .git
+git status
+cd
+gh --version
+gh auth login
+git status
+cd
+git init
+sudo snap install code --classic
+git rm --cached -r .oh-my-zsh
+echo ".oh-my-zsh" >> .gitignore
+git status
+git add .
+git commit -m "working with linux added readme"
+git remote add origin https://github.com/manish4051kk/REPO_NAME.git
+git push -u origin main
+cd ~
+rm -rf .git
+git status
+mkdir -p ~/projects/linux
+cd ~/projects/linux-notes
+cd
+mkdir -p ~/projects/linux
+cd ~/projects/linux-notes
+pwd
+ls
+cd projects
+pwd
+ls
+cd linux
+pwd
+git init
+echo "# LINUX" > README.md
+git add README.md
+git commit -m "initial linux notes"
+git remote add origin https://github.com/GrizX4051k/LINUX.git
+git branch -M main
+git push -u origin main
+git remote add origin https://github.com/GrizX4051k/LINUX.git
+git push -u origin main
+gh auth status
+gh auth logout
+gh auth login
+git push -u origin main
+rm rf 
+cd
+git status
+cd
+mkdirmkdir -p ~/projects/linux-notes
+mkdir -p ~/projects/linux-notes
+cd ~/projects/linux-notes
+git clone https://github.com/GrizX4051k/LINUX.git
+git status
+echo "# LINUX" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/GrizX4051k/LINUX.git
+git push -u origin main
+CD
+cd
+cd ~/projects/linux-notes
+git status
+git add .
+cd
+cd ~/projects/linux-notes
+rm -rf LINUX
+git stauts
+git status
+git init
+git auth login
+git auth logout
+cd
+cd ~/projects/linux-notes
+gh auth login
+echo "# LINUX" >> README.md
+git init
+git status
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/GrizX4051k/LINUX.git
+git push -u origin main
+git pull
+git status
+cd projects/linux
+git status
+pwd
+ls
+cd
+ls
+cd projects
+ls
+cd linux-notes
+git status
+pwd
+git remote -v
+ls
+pwd
+ls
+mkdir test
+git status
+ls
+cd test
+git status
+nano README.md
+ls
+git status
+touch notes.txt
+sl
+ls
+git status
+git add .
+git commint -m "using nav and files command"
+git commit -m "using nav and files command"
+git push
+cat notes.txt
+nano notes.txt > "Hello World\
+
+echo notes.txt >> "Hello world"
+ls
+echo notes.txt > "Hello world"
+ls
+cat notes
+cat notes.txt
+cat Hello\ world
+ls
+pw
+pwd
+less
+less 
+less
+less Hello\ world
+tail -f Hello\ world
+tail -f README.md
+git status
+git add .
+git commit -m "added a file and used view and edit commands"
+git push
+cd ..
+git status
+git pull
+echo $HISTFILE
+git branch -m master main
+nano sync_history.sh
+chmod +x sync_history.sh
+cd /home/manish4051k/projects/linux-notes\
+./sync_history.sh\
+
+ls history/
+cd history
+cat 2026-02-18.log
+cd ..
+nano sync_history.sh
+chmod +x sync_history.sh
+./sync_history.sh
+git log --oneline | head
+./sync_history.sh\
+git log --oneline | head\
+
+crontab -e
+tail /tmp/sync_history_cron.log
+cd /home/manish4051k/projects/linux-notes/history
+ls
+cat 2026-02-18.log
+cd ..
+git status
+git add .
+git commit -m "adding my command history to github from linux in history also whcih auto updtes every 30 mintues"
+git push
+ls
+nan README.md
+nano README.md
+cat README.md
+git status
+git add .
+git commit-m "updated Readme.md"
+git push
+git commit -m "updated Readme.md"
+git push
+git status
+mkdir linux-lab
+cd linux-lab
+nano init-structure.sh
+chmod +x init-structure.sh
+./init-structure.sh
+chmod +x init-structure.sh\
+./init-structure.sh
+git status
+git log
+git add .
+git commit -m "created my linux lab"
+git push
+sudo apt install tree
+tree
+git status
+cd ..
+mv README.md linux-lab
+git status
+git restore --staged 
+git restore --staged README.md
+git status
+git add .
+git commit -m "moved the wohole readme inside"
+git push
+ls
+nano README.md
+git add .
+git commit -m "added a new read for user to identify corrent folder for the linux repo"
+git push
+git status
+git pull
