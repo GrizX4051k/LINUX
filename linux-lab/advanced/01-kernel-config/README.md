@@ -1,3 +1,5 @@
 # 01 – Kernel Configuration
 
-_TODO: Add notes and practice tasks for this topic._
+Topics: `sysctl`, `/proc` and `/sys` parameters.
+
+Goal: understand how to inspect and tweak kernel runtime settings in a controlled way.
