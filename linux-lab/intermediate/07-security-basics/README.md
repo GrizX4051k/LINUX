@@ -1,3 +1,5 @@
 # 07 – Security Basics
 
-_TODO: Add notes and practice tasks for this topic._
+Topics: SSH hardening (`ssh`, keys, `sshd_config`), `ufw` firewall, file permissions, `setuid` / `setgid` / sticky bit.
+
+Goal: understand and apply basic Linux security best practices for dev and small server setups.
