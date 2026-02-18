@@ -1,3 +1,5 @@
 # 03 – Hardware Management
 
-_TODO: Add notes and practice tasks for this topic._
+Commands: `lshw`, `lspci`, `lsusb`, `dmidecode`, `modprobe`, `lsmod`.
+
+Goal: inspect hardware info and loaded kernel modules.
