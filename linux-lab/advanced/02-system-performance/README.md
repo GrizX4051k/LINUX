@@ -1,3 +1,5 @@
 # 02 – System Performance
 
-_TODO: Add notes and practice tasks for this topic._
+Tools: `perf`, `tuned`, `hdparm`, `strace`, `bpftrace`, cgroups, namespaces.
+
+Goal: trace performance issues and understand how processes use CPU, memory, disk and syscalls.
