@@ -1,3 +1,5 @@
 # 05 – Process Management
 
-_TODO: Add notes and practice tasks for this topic._
+Commands: `ps`, `top` / `htop`, `kill`, `jobs`, `bg`, `fg`.
+
+Goal: view running processes, manage foreground/background jobs, and safely stop misbehaving programs.
