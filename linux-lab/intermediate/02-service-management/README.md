@@ -1,3 +1,5 @@
-# 02 – Service Management
+# 02 – Service Management (systemd)
 
-_TODO: Add notes and practice tasks for this topic._
+Commands: `systemctl`, `journalctl`, `dmesg`, `syslog`.
+
+Goal: start/stop services, enable them at boot, and read logs to understand what went wrong.
