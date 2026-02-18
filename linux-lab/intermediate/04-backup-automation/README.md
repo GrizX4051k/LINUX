@@ -1,3 +1,5 @@
 # 04 – Backup Automation
 
-_TODO: Add notes and practice tasks for this topic._
+Tools: `cron`, `crontab`, `systemd` timers.
+
+Goal: schedule recurring tasks (backups, clean‑ups, reports) safely and reliably.
