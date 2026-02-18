@@ -1,3 +1,5 @@
 # 06 – Terminal Multiplexing
 
-_TODO: Add notes and practice tasks for this topic._
+Tools: `screen`, `tmux`, `zellij`.
+
+Goal: keep long‑running sessions alive over SSH, split panes and manage multiple terminals efficiently.
