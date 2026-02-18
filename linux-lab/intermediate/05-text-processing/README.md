@@ -1,3 +1,5 @@
 # 05 – Text & File Processing
 
-_TODO: Add notes and practice tasks for this topic._
+Commands: `head`, `tail`, `find`, `xargs`, `grep`, `awk`, `sed`, `tee`, `logrotate`.
+
+Goal: be able to slice, filter and transform logs and data directly from the shell.
