@@ -62,3 +62,14 @@ _As I learn, I keep this repo updated so you can literally follow the same path 
 - Confident Linux usage for **software engineering**:
   - Navigating and managing files from the terminal.
   - Using git entirely 
+# 🐧 Linux Lab – Manish’s Learning Roadmap
+
+This repo follows a structured roadmap to learn Linux from beginner to advanced, with:
+
+- concise notes (what each topic/command does)
+- practical command exercises
+- space for my own examples and mistakes
+
+The structure mirrors a typical Linux learning path (file management, permissions, processes, networking, services, security, etc.).
+
+> Goal: be comfortable using Linux as a developer and on real servers (plus some security/DevOps skills).
