@@ -1,3 +1,5 @@
 # 03 – Automation Scripting
 
-_TODO: Add notes and practice tasks for this topic._
+Topics: advanced Bash scripting, Python CLI tools, and tools like Ansible/Puppet/Chef.
+
+Goal: automate routine server and deployment tasks in a maintainable way.
