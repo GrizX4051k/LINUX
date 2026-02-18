@@ -1,3 +1,5 @@
 # 05 – Virtualization & Containers
 
-_TODO: Add notes and practice tasks for this topic._
+Tools: KVM, QEMU, libvirt, Docker, basic Dockerfiles.
+
+Goal: spin up and manage virtual machines and containers on Linux.
