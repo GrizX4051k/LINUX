@@ -1,3 +1,5 @@
 # 04 – Filesystem Internals
 
-_TODO: Add notes and practice tasks for this topic._
+Topics: EXT4, XFS, Btrfs, ZFS, RAID configuration, LVM.
+
+Goal: understand how data is laid out, and how to configure storage for reliability and performance.
