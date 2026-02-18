@@ -1,3 +1,5 @@
 # 06 – File Archiving & Transfer
 
-_TODO: Add notes and practice tasks for this topic._
+Commands: `tar`, `gzip`, `zip`, `unzip`, `scp`, `rsync`.
+
+Goal: compress/extract data and move files efficiently between directories or machines.
