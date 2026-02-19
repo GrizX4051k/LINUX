@@ -30,7 +30,7 @@ If you’re browsing the `LINUX` repo itself, just open the `linux-lab` folder a
   <span>
     <a href="https://github.com/GrizX4051k/linux-lab">
       <img
-        src="https://github-readme-stats-five-delta-54.vercel.app/api/pin/?username=GrizX4051k&repo=linux-lab&theme=radical&show_owner=true"
+        src="https://github-readme-stats-five-delta-54.vercel.app/api/pin/?username=GrizX4051k&repo=LINUX&theme=radical&show_owner=true"
         alt="linux-lab repo card"
         style="display:inline-block;" />
     </a>
