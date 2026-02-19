@@ -28,12 +28,16 @@ This is my personal **Linux lab** while I level up from “just installed Ubuntu
 You’ll find real notes, scripts, aliases and configurations I use while working on web, backend and mobile development.  
 
 ---
+
   <p align="center">
     <img
       src="https://github-readme-stats-five-delta-54.vercel.app/api/top-langs/?username=GrizX4051k&layout=compact&langs_count=6&theme=radical&hide=javascript,typescript,html,css,c,c%2B%2B"
       alt="Top shell usage"
       style="display:inline-block;" />
   </p>
+  
+  ---
+  
 ## 🧪 Current experiments
 
 - Daily terminal workflows for:
