@@ -18,6 +18,12 @@
   <a href="https://img.shields.io/badge/Focus-Web%20%26%20App%20Dev-0A66C2">
     <img src="https://img.shields.io/badge/Focus-Web%20%26%20App%20Dev-0A66C2" alt="Web & App Dev"/>
   </a>
+    <span>
+    <img
+      src="https://github-readme-stats-five-delta-54.vercel.app/api/top-langs/?username=GrizX4051k&layout=compact&langs_count=6&theme=radical&hide=javascript,typescript,html,css,c,c%2B%2B"
+      alt="Top shell usage"
+      style="display:inline-block;" />
+  </span>
 </p>
 
 ---
