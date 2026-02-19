@@ -3,7 +3,7 @@
 This repository is now a **pointer** to my main Linux learning environment.
 
 👉 My active Linux work lives here:  
-**[Linux Lab – structured notes & exercises]([https://github.com/GrizX4051k/linux-lab](https://github.com/GrizX4051k/LINUX/tree/main/linux-lab))**  
+**[Linux Lab – structured notes & exercises]([https://github.com/GrizX4051k/linux-lab](https://github.com/GrizX4051k/LINUX/linux-lab))**  
 
 If you’re browsing the `LINUX` repo itself, just open the `linux-lab` folder above to see my current Linux notes, logs, and practice exercises:
 
