@@ -7,8 +7,7 @@ This repository is now a **pointer** to my main Linux learning environment.
 
 If you’re browsing the `LINUX` repo itself, just open the `linux-lab` folder above to see my current Linux notes, logs, and practice exercises:
 
-> 🔗 **Repo:** https://github.com/GrizX4051k/LINUX
-
+> 🔗 **Repo:** https://github.com/GrizX4051k/linux-lab
 ---
 
 <p align="center">
